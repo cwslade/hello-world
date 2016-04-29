@@ -1,4 +1,4 @@
 # hello-world
 first repository
-My Name is raig
+My Name is Craig
 hello to everyone
